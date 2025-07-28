@@ -15,6 +15,6 @@ Tasks:
 
 - Task1: Profile ![Profile preview](./src/assets/image-task1.png)
 
-- Task1: FriendList ![Profile preview](./src/assets/image-task2.png)
+- Task2: FriendList ![Profile preview](./src/assets/image-task2.png)
 
-- Task3: TransactionHistory ![Profile preview](./src/assets)
+- Task3: TransactionHistory ![Profile preview](./src/assets/image-task3.png)
