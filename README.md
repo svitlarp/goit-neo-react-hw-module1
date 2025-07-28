@@ -13,6 +13,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 Tasks:
 
-- 1. Profile ![Profile preview](./src/assets/image-task1.png)
+- Task1: Profile ![Profile preview](./src/assets/image-task1.png)
 
-* 2. FriendList ![Profile preview](./src/assets/image-task2.png)
+- Task1: FriendList ![Profile preview](./src/assets/image-task2.png)
+
+- Task3: TransactionHistory ![Profile preview](./src/assets)

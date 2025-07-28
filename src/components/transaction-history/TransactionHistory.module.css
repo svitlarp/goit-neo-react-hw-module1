@@ -1,0 +1,22 @@
+.transactionHistory {
+    border-collapse: collapse;
+    
+    thead {
+        background-color: black;
+        color: white;
+        th {
+            min-width: 160px;
+        }
+
+    }   
+    tbody {
+        font-weight: 400;
+        tr:nth-child(2n) {
+            background-color: grey;
+        }
+        td {
+            border: 1px solid black;
+        }
+    } 
+}
+
