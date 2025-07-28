@@ -1,0 +1,43 @@
+p {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.friendsList {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+.friendListItem {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.friendListItemImg {
+    object-fit: cover;
+}
+
+.friendListItemName {
+    font-size: large;
+    font-weight: 600;
+}
+
+.friendListItemStatus {
+
+}
+
+.isOnline {
+    color: green;
+}
+
+.isOffline {
+    color: red;
+}

@@ -1,4 +1,13 @@
-import  { userName, userTag, userLocation, userProfile, userProfileImg, userStatList, userStatListItem, userStatListItemSpanData }  from './Profile.module.css';
+import {
+    userName,
+    userTag,
+    userLocation,
+    userProfile,
+    userProfileImg,
+    userStatList,
+    userStatListItem,
+    userStatListItemSpanData
+} from './Profile.module.css';
 
 
 export default function Profile({ name, tag, location, avatar, stats }) {
